@@ -1,0 +1,11 @@
+C:\Users\johnr\source\repos\ROSELL_MissU\ROSELL_MissU\bin\Debug\ROSELL_MissU.exe.config
+C:\Users\johnr\source\repos\ROSELL_MissU\ROSELL_MissU\bin\Debug\ROSELL_MissU.exe
+C:\Users\johnr\source\repos\ROSELL_MissU\ROSELL_MissU\bin\Debug\ROSELL_MissU.pdb
+C:\Users\johnr\source\repos\ROSELL_MissU\ROSELL_MissU\obj\Debug\ROSELL_MissU.csproj.AssemblyReference.cache
+C:\Users\johnr\source\repos\ROSELL_MissU\ROSELL_MissU\obj\Debug\ROSELL_MissU.csproj.SuggestedBindingRedirects.cache
+C:\Users\johnr\source\repos\ROSELL_MissU\ROSELL_MissU\obj\Debug\ROSELL_MissU.Form1.resources
+C:\Users\johnr\source\repos\ROSELL_MissU\ROSELL_MissU\obj\Debug\ROSELL_MissU.Properties.Resources.resources
+C:\Users\johnr\source\repos\ROSELL_MissU\ROSELL_MissU\obj\Debug\ROSELL_MissU.csproj.GenerateResource.cache
+C:\Users\johnr\source\repos\ROSELL_MissU\ROSELL_MissU\obj\Debug\ROSELL_MissU.csproj.CoreCompileInputs.cache
+C:\Users\johnr\source\repos\ROSELL_MissU\ROSELL_MissU\obj\Debug\ROSELL_MissU.exe
+C:\Users\johnr\source\repos\ROSELL_MissU\ROSELL_MissU\obj\Debug\ROSELL_MissU.pdb
